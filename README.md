@@ -1,25 +1,112 @@
-# WBCSC_SET
-West Bengali College Service Commission State Eligibility Test for Computer Science & Application.
+# 📘 WBCSC SET --- Computer Science (CS)
 
-## If you liked the effort, give a star to the repository 
+### Complete Guide + Previous Year Question Papers (PYQs)
 
-# Wanna Contribute to this repository!
-Connect with me
+## 🔎 About WBCSC SET
 
-## Connect with me
+The **West Bengal State Eligibility Test (SET)** is conducted by the\
+**West Bengal College Service Commission (WBCSC)** to determine
+eligibility for:
 
-<a href="https://www.linkedin.com/in/arik-mukherjee/" target="_blank">
-  <img src="assets/logos/linkedin.png" alt="LinkedIn" width="40" height="40" style="margin: 10px; box-shadow: 5px 5px 15px #0077B5, -5px -5px 15px #00aaff; border-radius: 50%;">
-</a>
-<a href="https://twitter.com/ArikMukherjee6" target="_blank">
-  <img src="assets/logos/twitter.png" alt="Twitter" width="40" height="40" style="margin: 10px; box-shadow: 5px 5px 15px #1DA1F2, -5px -5px 15px #33ccff; border-radius: 50%;">
-</a>
-<a href="https://github.com/arikmukherjee" target="_blank">
-  <img src="assets/logos/github.png" alt="GitHub" width="40" height="40" style="margin: 10px; box-shadow: 5px 5px 15px #181717, -5px -5px 15px #333333; border-radius: 50%;">
-</a>
-<a href="https://www.facebook.com/arikmukherjee.cs/" target="_blank">
-  <img src="assets/logos/facebook.png" alt="Facebook" width="40" height="40" style="margin: 10px; box-shadow: 5px 5px 15px #1877F2, -5px -5px 15px #3399ff; border-radius: 50%;">
-</a>
-<a href="https://www.instagram.com/arikmukherjee3" target="_blank">
-  <img src="assets/logos/instagram.png" alt="Instagram" width="40" height="40" style="margin: 10px; box-shadow: 5px 5px 15px #E4405F, -5px -5px 15px #ff5c8d; border-radius: 50%;">
-</a>
+-   👩‍🏫 Assistant Professor (Universities & Colleges in West Bengal)
+
+------------------------------------------------------------------------
+
+## 🏗️ Exam Pattern (Current)
+
+SET consists of **two papers**, conducted in a single session:
+
+  -------------------------------------------------------------------------
+          Paper Description                         Questions         Marks
+  ------------- ------------------------ -------------------- -------------
+    **Paper 1** General Teaching &                         50           100
+                Research Aptitude                             
+                (common to all)                               
+
+    **Paper 2** Subject --- Computer                      100           200
+                Science                                       
+  -------------------------------------------------------------------------
+
+-   💻 Mode: Offline (OMR‑based)\
+-   ⏳ Duration: **3 hours (combined)**\
+-   ❌ No negative marking
+
+> 📜 Older notifications sometimes reference **Paper 3** for legacy
+> patterns.\
+> Where available, those archives are listed below.
+
+------------------------------------------------------------------------
+
+## 🧠 Syllabus Overview
+
+### 📌 Paper 1 (General)
+
+Teaching aptitude • Research aptitude • Logical reasoning • DI •
+Communication • Higher education system
+
+### 💻 Paper 2 (Computer Science)
+
+Programming • Algorithms • Data structures • DBMS • OS • Networks • TOC
+• Software engineering • AI • Web & Cloud
+
+------------------------------------------------------------------------
+
+## 📥 Previous Year Question Papers (PYQs)
+
+> Many official PDFs are released with notifications or after exams.\
+> Below are curated sources where access is commonly available.
+
+### 🧾 Paper 1 --- General (Teaching & Research Aptitude)
+
+  --------------------------------------------------------------------------------------
+  Source                              Link
+  ----------------------------------- --------------------------------------------------
+  Official notification archives      https://www.wbcsconline.in/
+
+  Compiled practice & PYQs            https://www.examrace.com/WBCSC/WBCSC-SET-Papers/
+  --------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+### 💻 Paper 2 --- Computer Science
+
+  ------------------------------------------------------------------------------------------------------------
+  Source                              Link
+  ----------------------------------- ------------------------------------------------------------------------
+  Subject wise PYQ collections        https://www.examrace.com/WBCSC/WBCSC-SET-Papers/Computer-Science/
+
+  Model / Previous Papers (coaching   https://www.jagranjosh.com/articles/wb-set-question-paper-1669969305-1
+  archive)                            
+  ------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+### 🏛️ Legacy Paper 3 --- (Old Pattern, if available)
+
+-   https://www.examrace.com/WBCSC/WBCSC-SET-Papers/
+
+> Not all years have digitized copies --- older papers are gradually
+> archived.
+
+------------------------------------------------------------------------
+
+## 🎯 Preparation Tips
+
+-   Practice PYQs chronologically (analyze repeated topics)\
+-   Attempt full-length mock tests under time constraints\
+-   Review explanations & answer keys\
+-   Focus on accuracy --- there is **no negative marking**
+
+------------------------------------------------------------------------
+
+## 🔗 Official Resources
+
+-   WBCSC Portal (Notices & Downloads): https://www.wbcsc.org.in/\
+-   Online SET Portal: https://www.wbcsconline.in/
+
+------------------------------------------------------------------------
+
+## 🙌 Contribute
+
+If you find verified PDFs or broken links, please open an issue or
+submit a PR.
