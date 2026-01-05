@@ -73,10 +73,7 @@ Programming • Algorithms • Data structures • DBMS • OS • Networks • 
   ------------------------------------------------------------------------------------------------------------
   Source                              Link
   ----------------------------------- ------------------------------------------------------------------------
-  Subject wise PYQ collections        https://www.examrace.com/WBCSC/WBCSC-SET-Papers/Computer-Science/
-
-  Model / Previous Papers (coaching   https://www.jagranjosh.com/articles/wb-set-question-paper-1669969305-1
-  archive)                            
+  Subject wise PYQ collections        https://www.examrace.com/WBCSC/WBCSC-SET-Papers/Computer-Science/                            
   ------------------------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
